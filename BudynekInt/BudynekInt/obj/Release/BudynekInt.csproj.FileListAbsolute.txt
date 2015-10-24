@@ -1,0 +1,14 @@
+C:\Users\Olaf\Desktop\Studia PWR\II Semestr\Programowanie obiektowe\Projekt C# Finale\BudynekInt\BudynekInt\bin\Release\BudynekInt.exe.config
+C:\Users\Olaf\Desktop\Studia PWR\II Semestr\Programowanie obiektowe\Projekt C# Finale\BudynekInt\BudynekInt\bin\Release\BudynekInt.exe
+C:\Users\Olaf\Desktop\Studia PWR\II Semestr\Programowanie obiektowe\Projekt C# Finale\BudynekInt\BudynekInt\bin\Release\BudynekInt.pdb
+C:\Users\Olaf\Desktop\Studia PWR\II Semestr\Programowanie obiektowe\Projekt C# Finale\BudynekInt\BudynekInt\obj\Release\BudynekInt.csprojResolveAssemblyReference.cache
+C:\Users\Olaf\Desktop\Studia PWR\II Semestr\Programowanie obiektowe\Projekt C# Finale\BudynekInt\BudynekInt\obj\Release\BudynekInt.MainForm.resources
+C:\Users\Olaf\Desktop\Studia PWR\II Semestr\Programowanie obiektowe\Projekt C# Finale\BudynekInt\BudynekInt\obj\Release\BudynekInt.menuOsoby.resources
+C:\Users\Olaf\Desktop\Studia PWR\II Semestr\Programowanie obiektowe\Projekt C# Finale\BudynekInt\BudynekInt\obj\Release\BudynekInt.menuUprawnienia.resources
+C:\Users\Olaf\Desktop\Studia PWR\II Semestr\Programowanie obiektowe\Projekt C# Finale\BudynekInt\BudynekInt\obj\Release\BudynekInt.okienkoRaporty.resources
+C:\Users\Olaf\Desktop\Studia PWR\II Semestr\Programowanie obiektowe\Projekt C# Finale\BudynekInt\BudynekInt\obj\Release\BudynekInt.oknoStart.resources
+C:\Users\Olaf\Desktop\Studia PWR\II Semestr\Programowanie obiektowe\Projekt C# Finale\BudynekInt\BudynekInt\obj\Release\BudynekInt.Properties.Resources.resources
+C:\Users\Olaf\Desktop\Studia PWR\II Semestr\Programowanie obiektowe\Projekt C# Finale\BudynekInt\BudynekInt\obj\Release\BudynekInt.zablokowaneStrOkno.resources
+C:\Users\Olaf\Desktop\Studia PWR\II Semestr\Programowanie obiektowe\Projekt C# Finale\BudynekInt\BudynekInt\obj\Release\BudynekInt.csproj.GenerateResource.Cache
+C:\Users\Olaf\Desktop\Studia PWR\II Semestr\Programowanie obiektowe\Projekt C# Finale\BudynekInt\BudynekInt\obj\Release\BudynekInt.exe
+C:\Users\Olaf\Desktop\Studia PWR\II Semestr\Programowanie obiektowe\Projekt C# Finale\BudynekInt\BudynekInt\obj\Release\BudynekInt.pdb

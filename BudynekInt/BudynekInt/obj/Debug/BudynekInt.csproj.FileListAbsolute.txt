@@ -1,0 +1,17 @@
+C:\Users\Olaf\Desktop\ProjetkCsh\BudynekInt\BudynekInt\bin\Debug\BudynekInt.exe.config
+C:\Users\Olaf\Desktop\ProjetkCsh\BudynekInt\BudynekInt\bin\Debug\BudynekInt.exe
+C:\Users\Olaf\Desktop\ProjetkCsh\BudynekInt\BudynekInt\bin\Debug\BudynekInt.pdb
+C:\Users\Olaf\Desktop\ProjetkCsh\BudynekInt\BudynekInt\obj\Debug\BudynekInt.csprojResolveAssemblyReference.cache
+C:\Users\Olaf\Desktop\ProjetkCsh\BudynekInt\BudynekInt\obj\Debug\BudynekInt.Properties.Resources.resources
+C:\Users\Olaf\Desktop\ProjetkCsh\BudynekInt\BudynekInt\obj\Debug\BudynekInt.csproj.GenerateResource.Cache
+C:\Users\Olaf\Desktop\ProjetkCsh\BudynekInt\BudynekInt\obj\Debug\BudynekInt.exe
+C:\Users\Olaf\Desktop\ProjetkCsh\BudynekInt\BudynekInt\obj\Debug\BudynekInt.pdb
+C:\Users\Olaf\Desktop\ProjetkCsh\BudynekInt\BudynekInt\obj\Debug\BudynekInt.oknoStart.resources
+C:\Users\Olaf\Desktop\ProjetkCsh\BudynekInt\BudynekInt\obj\Debug\BudynekInt.MainForm.resources
+C:\Users\Olaf\Desktop\ProjetkCsh\BudynekInt\BudynekInt\obj\Debug\BudynekInt.menuOsoby.resources
+C:\Users\Olaf\Desktop\ProjetkCsh\BudynekInt\BudynekInt\obj\Debug\BudynekInt.menuUprawnienia.resources
+C:\Users\Olaf\Desktop\ProjetkCsh\BudynekInt\BudynekInt\obj\Debug\BudynekInt.okienkoRaporty.resources
+C:\Users\Olaf\Desktop\ProjetkCsh\BudynekInt\BudynekInt\obj\Debug\BudynekInt.zablokowaneStrOkno.resources
+C:\Users\Olaf\Desktop\Studia PWR\II Semestr\Programowanie obiektowe\Projekt C# Finale\BudynekInt\BudynekInt\bin\Debug\BudynekInt.exe.config
+C:\Users\Olaf\Desktop\Studia PWR\II Semestr\Programowanie obiektowe\Projekt C# Finale\BudynekInt\BudynekInt\obj\Debug\BudynekInt.exe
+C:\Users\Olaf\Desktop\Studia PWR\II Semestr\Programowanie obiektowe\Projekt C# Finale\BudynekInt\BudynekInt\obj\Debug\BudynekInt.pdb
